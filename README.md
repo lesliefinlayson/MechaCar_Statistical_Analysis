@@ -50,7 +50,7 @@ Results:
 
 With a significance level of .05 percent, the p-value of .06 is above the significance level.  There is not sufficient evidence to reject the null hypotheses.  The two means are statistically similar.  
 
-
+Question 2:  Is the PSI for any of the individual 3 manufacturing lots statistically different from the population mean of 1,500 PSI?
 
 
 
