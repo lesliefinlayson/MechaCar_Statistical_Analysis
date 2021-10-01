@@ -15,4 +15,4 @@ _This is determined by looking at the individual variable p-values.  In the summ
 
 •	Ground clearance is much smaller than our assumed significance level of 0.05% at 5.21e-08.
 
-
+Question 2:  Is the slope of the linear model considered to be zero
