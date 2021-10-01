@@ -4,4 +4,12 @@
 
 Goal:  using linear regression, determine what metrics affect vehicle performance, as measured by vehicle's mpg.
 
-<img width="379" alt="2021-09-30 (2)" src="https://user-images.githubusercontent.com/84471904/135560351-c9508f2a-fb05-42dc-a50a-57b2fbaeb57b.png">
+<img width="425" alt="2021-09-30 (3)" src="https://user-images.githubusercontent.com/84471904/135563439-645c4a82-2b54-4d6f-823b-23e45a00ed3c.png">
+
+
+_Variables/coefficients that provide a non-random amount of variance to the mpg values in the dataset:
+
+•	Vehicle length
+•	Ground clearance
+
+
