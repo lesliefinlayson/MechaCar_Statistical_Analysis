@@ -19,4 +19,4 @@ Question 2:  Is the slope of the linear model considered to be zero
 
 _Because this is a multiple linear regression analysis, the equation is not a simple y = mx + b, where m is the slope.  Instead, the multiple linear regression equation becomes y = m1x1 + m2x2 + … + mnxn + b, for all independent x variables and their m coefficients._
 
-
+Question 3:  Does this liear model effectively predict mpg of MechaCar prototypes 
