@@ -16,3 +16,7 @@ _This is determined by looking at the individual variable p-values.  In the summ
 •	Ground clearance is much smaller than our assumed significance level of 0.05% at 5.21e-08.
 
 Question 2:  Is the slope of the linear model considered to be zero
+
+_Because this is a multiple linear regression analysis, the equation is no not a simple y = mx + b, where m is the slope.  Instead, the multiple linear regression equation becomes y = m1x1 + m2x2 + … + mnxn + b, for all independent x variables and their m coefficients.
+
+
