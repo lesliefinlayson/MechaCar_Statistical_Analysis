@@ -11,8 +11,8 @@ Question 1:  Which variables/coefficients provide a non-random amount of varianc
 
 _This is determined by looking at the individual variable p-values.  In the summary output, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model_
 
-•	Vehicle length
+•	Vehicle length is much smaller than our assumed significance level of 0.05% at 2.60e-12.
 
-•	Ground clearance
+•	Ground clearance is much smaller than our assumed significance level of 0.05% at 5.21e-08.
 
 
