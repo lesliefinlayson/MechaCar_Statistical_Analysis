@@ -40,4 +40,35 @@ Question 2: Does the current manufacturing data meet this design specification f
 
 When looking at the individual lots, the first two lots meet the design specifications at a variance of approximately .98 PSI and 7.47 PSI respectively.  Lot 3, however shows a variance of approximately 170.29 and exceeds the manufacturer's specifications.  
 
+## T-Tests on Suspension Coils
+
+<img width="241" alt="2021-10-01 (5)" src="https://user-images.githubusercontent.com/84471904/135694695-180bb59b-3285-41f0-b80f-4de89987a61f.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
