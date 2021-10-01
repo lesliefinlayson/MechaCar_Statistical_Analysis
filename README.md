@@ -27,10 +27,17 @@ The r-squared value for the multipe linear regression is .71.  THis suggests tha
 
 Background:  The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
 
-Question: Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? 
+Question 1: Does the current manufacturing data meet this design specification for all manufacturing lots in total?
 
-Lot 1 and Lot 2 are both within design specifications and have hnearly the same exact mean and median. Lot 3 shows the most variance and exceeds the manufacturers specs.
+<img width="161" alt="2021-10-01 (2)" src="https://user-images.githubusercontent.com/84471904/135667611-51dce5fa-be4a-472b-948a-1ddd53a627be.png">
 
-The answer to this question is:
+Looking at the total summary, the variance is approximately 62.29 and therefore meets the design specification.
 
-Looking at the total summary, the current variance is approximately 76.23 PSI meaning that is does meet the design specification. When looking at the lots individuals, the first two lotas meet the design specification at a varaince of approximately 1.14 PSI and 10.13 PSI respectfully, but the third lot does not. This is becasue the third lot's variance is approximately 220.01 PSI, exceeding the design specification by more than double the alotted amount. Therefore, the manufacturing team should work with the cars in lots 1 and 2 compared to those in lot 3.
+
+Question 2: Does the current manufacturing data meet this design specification for each lot individually? 
+
+<img width="235" alt="2021-10-01 (3)" src="https://user-images.githubusercontent.com/84471904/135667793-f9bd88a8-e681-4c66-bd25-21d654b68b96.png">
+
+When looking at the individual lots, the first two lots meet the design specifications at a variance of approximately .98 PSI and 7.47 PSI respectively.  Lot 3, however shows a variance of approximately 170.29 and exceeds the manufacturer's specifications.  
+
+
