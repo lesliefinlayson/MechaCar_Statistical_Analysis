@@ -22,3 +22,9 @@ _Because this is a multiple linear regression analysis, the equation is not a si
 Question 3:  Does this linear model effectively predict mpg of MechaCar prototypes 
 
 The r-squared value for the multipe linear regression is .71.  THis suggests that there is a strong positive correlation and we can anticipate that the linear model will perform well.  
+
+## Summary "Statistics on Suspension Coils
+
+Background:  The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
+
+Question: Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? 
