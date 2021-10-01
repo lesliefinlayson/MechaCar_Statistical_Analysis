@@ -42,9 +42,13 @@ When looking at the individual lots, the first two lots meet the design specific
 
 ## T-Tests on Suspension Coils
 
+Question1:  Is the PSI for all 3 manufacturing lots combined statistically different from the population mean of 1,500 PSI?
+
+Results:
+
 <img width="241" alt="2021-10-01 (5)" src="https://user-images.githubusercontent.com/84471904/135694695-180bb59b-3285-41f0-b80f-4de89987a61f.png">
 
-
+With a significance level of .05 percent, the p-value of is above the significance level.  There is not sufficient evidence to reject the null hypotheses.  The two means are statistically similar.  
 
 
 
