@@ -53,9 +53,11 @@ With a significance level of .05 percent, the p-value of .06 is above the signif
 Question 2:  Is the PSI for any of the individual 3 manufacturing lots statistically different from the population mean of 1,500 PSI?
 
 Results for Lot1:
+
 <img width="232" alt="2021-10-01 (7)" src="https://user-images.githubusercontent.com/84471904/135698065-25353f0c-638c-459d-8430-9b3357cfc28a.png">
 
 Results for Lot2:
+
 <img width="233" alt="2021-10-01 (8)" src="https://user-images.githubusercontent.com/84471904/135698101-76206c55-5a3e-453f-8a37-18bcb518d441.png">
 
 Results for Lot3:
