@@ -64,8 +64,9 @@ Results for Lot3:
 
 <img width="253" alt="2021-10-01 (9)" src="https://user-images.githubusercontent.com/84471904/135698144-d7cf3e53-ab21-4491-ba8f-71826d61241b.png">
 
-With a significance level of .05 percent, the p-values of Lot1, Lot2 and Lot3 are all above the significance level.  There is not sufficient evidence to reject the null hypotheses.  The mean for each lot is statistically similar to the poplutation.  
+With a significance level of .05 percent, the p-values of Lot1, Lot2 and Lot3 are all above the significance level.  There is not sufficient evidence to reject the null hypotheses.  The mean for each lot is statistically similar to the population.  
 
+## Study Design: MechaCar V Competition
 
 
 
