@@ -68,6 +68,16 @@ With a significance level of .05 percent, the p-values of Lot1, Lot2 and Lot3 ar
 
 ## Study Design: MechaCar V Competition
 
+According to USA Today's 2021 Consumer Report, Mazda achieved the highest overall score for reliability among 26 rated brands.  Why?
+
+1.  Mazda has not invested in modern infotainment systems, which has generated complaints in other brands
+2.  Mazda has not introduced high-tech transimissions, such as dual-clutch gear-shifters.  Reported transmission issues are high from Tesla, Sliverado and Sierra owners. 
+3.  While Mazda style features continue to evolve, there is not a great deal of redesign, which can introduce unexpected flaws and defects.
+
+To summarize, Mazda does not focus on new technologies, which may be flawed and/or defective, and are therefore producing cars that are highly reliable.
+
+
+
 
 
 
