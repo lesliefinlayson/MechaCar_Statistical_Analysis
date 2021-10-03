@@ -68,18 +68,28 @@ With a significance level of .05 percent, the p-values of Lot1, Lot2 and Lot3 ar
 
 ## Study Design: MechaCar V Competition
 
-According to USA Today's 2021 Consumer Report, Mazda achieved the highest overall score for reliability among 26 rated brands.  Why?
+It's a common complaint that you can't have it all in a car, you can either have a fast high performance sports car or a gas-efficient no frills and no excitement vehicle.  Yet, consumers want it all, no compromise.  The perfect vehicle has both and in 2021.  Examples from Motor Trend include:
 
-1.  Mazda has not invested in modern infotainment systems, which has generated complaints in other brands
-2.  Mazda has not introduced high-tech transimissions, such as dual-clutch gear-shifters.  Reported transmission issues are high from Tesla, Sliverado and Sierra owners. 
-3.  While Mazda style features continue to evolve, there is not a great deal of redesign, which can introduce unexpected flaws and defects.
+•	Volvo S60:  302-hp and 35 Mpg
 
-To summarize, Mazda does not focus on new technologies, which may be flawed and/or defective, and are therefore producing cars that are highly reliable.
+•	BMW 640i:  315-hp and 31 Mpg
 
+•	Ford Mustang:  310-hp and 32 Mpg
 
+How does MechaCar standup to these competitors?
 
+To explore this, we will compare MechaCar's hp and mpg ratings to the 20 vehicles listed by Motor Trend that are quickest to 60 mps and also achieve at least 30 Mpg on the highway.
 
+Metrics to test:  hp and mpg
+Null hypothesis:  hp for MechaCar's models are statistically different from the mean for Motor Trend's population of high performance/fuel efficient vehicles.
+Alternative hypothesis:  hp for MechaCar's models are not statistically different from the mean for Motor Trend's population of high performance/fuel efficient vehicles.
 
+Null hypothesis:  Mpg for MechaCar's models are statistically different from the mean for Motor Trend's population of high performance/fuel efficient vehicles.
+Alternative hypothesis:  Mpg for MechaCar's models are not statistically different from the mean for Motor Trend's population of high performance/fuel efficient vehicles.
+
+Statistical test:  T-tests will be used to compare Mechacar's vehicles against the mean hp of the competitor population and to compare Mechacar's vehicles against the mean Mpg of the competitor population.
+
+Data needed:  hp and mpg for 2021 MechaCar's and competitors' models.  Running the same tests on subcategories based on class would likely be useful as well.  
 
 
 
